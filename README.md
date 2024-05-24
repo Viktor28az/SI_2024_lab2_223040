@@ -61,7 +61,9 @@ public class SILab2 {
 
 
 
-![image](https://github.com/Viktor28az/bonobo/assets/162887208/f459ac60-bbab-4441-8d0b-54ff1758b8f9)
+			
+![image](https://github.com/Viktor28az/bonobo/assets/162887208/0f319f4c-c6fb-484f-a661-17ad20ade391)
+
 
 6
 ![image](https://github.com/Viktor28az/bonobo/assets/162887208/7a9157bc-b4db-4228-a2f3-815a1094d098)
