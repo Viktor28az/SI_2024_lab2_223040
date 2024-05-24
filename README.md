@@ -52,3 +52,9 @@ public class SILab2 {
 3.2.Преку бројот на врски – бројот на јазли +2 ----> V(G)= E – N +2 3.3.
 Преку бројот предикатни јазли во даден граф +1.
 Па според ова E=39 број на врски ; N=31 број на јазли  39-31+2=8+2=10
+
+4
+Every statement	AllItems=’ ’	Allitems=“1“; name=“ “; barcode=“-1“	Allitems=“1“; name=“ “; barcode=“1“; discount=“10“;sum=“10“ paymen=“20“	Allitems=“1“; name=“ “; barcode=“1“; discount=“-1“;sum=“30“ paymen=“20“
+
+![image](https://github.com/Viktor28az/bonobo/assets/162887208/e3a7d023-75d3-45aa-9d2b-1d76fbb2d5a8)
+
