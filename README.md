@@ -45,16 +45,25 @@ public class SILab2 {
 }
 
 2
-![sliaaaaaaaa](https://github.com/Viktor28az/bonobo/assets/162887208/60c82ee8-4d3e-419e-874c-0153adda4b3a)
+![screencapture-app-diagrams-net-2024-05-24-16_41_58](https://github.com/Viktor28az/bonobo/assets/162887208/f16cb0c9-4474-4e58-b493-a7b86465fc60)
+
 
 3.Цикломатската сложенсот може да се пресмета на три начини: 
 3.1.Преку бројот на региони 
 3.2.Преку бројот на врски – бројот на јазли +2 ----> V(G)= E – N +2 3.3.
 Преку бројот предикатни јазли во даден граф +1.
-Па според ова E=39 број на врски ; N=31 број на јазли  39-31+2=8+2=10
+Па според ова E=38 број на врски ; N=30 број на јазли  38-30+2=8+2=10
 
 4
 
-![image](https://github.com/Viktor28az/bonobo/assets/162887208/c9f59ec1-0236-47bf-96c2-cb5ba2b76315)
+
+![image](https://github.com/Viktor28az/bonobo/assets/162887208/bc51a8a7-3cf5-44a3-aa2f-d4ff8bea2a3e)
+
+
+
+![image](https://github.com/Viktor28az/bonobo/assets/162887208/f459ac60-bbab-4441-8d0b-54ff1758b8f9)
+
+6
+![image](https://github.com/Viktor28az/bonobo/assets/162887208/7a9157bc-b4db-4228-a2f3-815a1094d098)
 
 
