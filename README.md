@@ -49,7 +49,8 @@ public class SILab2 {
 }
 
 2
-![screencapture-app-diagrams-net-2024-05-24-16_41_58](https://github.com/Viktor28az/bonobo/assets/162887208/f16cb0c9-4474-4e58-b493-a7b86465fc60)
+![screencapture-app-diagrams-net-2024-05-26-22_07_29](https://github.com/Viktor28az/SI_2024_lab2_223040/assets/162887208/88d53fac-0d9b-4e59-9e89-08e143e13c80)
+
 
 
 3.Цикломатската сложенсот може да се пресмета на три начини: 
