@@ -71,8 +71,8 @@ public class SILab2 {
 
 
 6
-![image](https://github.com/Viktor28az/bonobo/assets/162887208/7a9157bc-b4db-4228-a2f3-815a1094d098)
 
-![image](https://github.com/Viktor28az/SI_2024_lab2_223040/assets/162887208/85e4764b-c330-4b27-81f3-b1fc3f5ae81a)
+![image](https://github.com/Viktor28az/SI_2024_lab2_223040/assets/162887208/470699e8-f130-45a8-9be1-9b90348f6dca)
 
+Со ова се покриени сите гранки и секој услов е целосно истестиран
 
