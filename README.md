@@ -1,4 +1,8 @@
 1.Пред да се направи Control Flow Graph, потребно е во самата функција да се дефинираат сите statement-и кои ги имамме: 
+
+
+
+
 public class SILab2 {
     public static boolean checkCart(List<Item> allItems, int payment){//1
         if (allItems == null){//2
